@@ -1,5 +1,5 @@
 {
-    "name": "botman/driver-slack",
+    "name": "bluesquare-io/botman-slack",
     "license": "MIT",
     "description": "Slack driver for BotMan",
     "keywords": [
@@ -17,7 +17,7 @@
     "require": {
         "php": ">=7.0",
         "botman/botman": "~2.1",
-        "mpociot/slack-client": "~1.0"
+        "bluesquare-io/slack-client": "~1.0"
     },
     "require-dev": {
         "botman/studio-addons": "~1.0",
